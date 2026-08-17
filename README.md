@@ -5,4 +5,5 @@ Dataset Description: Details on the Kaggle Heart Failure dataset (918 instances,
 
 GitHub Repository Link:
 
-image
+<img width="710" height="163" alt="image" src="https://github.com/user-attachments/assets/42cc903a-f129-49ec-9bc1-7c580fa03521" />
+
