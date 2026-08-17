@@ -3,7 +3,7 @@ Problem Statement: Predicting heart failure / heart disease presence based on 12
 
 Dataset Description: Details on the Kaggle Heart Failure dataset (918 instances, continuous & categorical clinical features like Age, RestingBP, Cholesterol, MaxHR, Oldpeak, etc.).
 
-GitHub Repository Link:
+GitHub Repository Link:  https://github.com/2025ac05420-alt/ML-assignment-02
 
 <img width="710" height="163" alt="image" src="https://github.com/user-attachments/assets/42cc903a-f129-49ec-9bc1-7c580fa03521" />
 
